@@ -21,15 +21,12 @@
   </head>
   <body>
 
-    <div id="body">
 
     <div id="header">
       
         <div id="nav">
-        <img src="../images/image (10).png" alt="logo">
-<div id="category_div">
-        <h2 id="category"> iQ Quiz</h2>
-      </div>
+        <img src="../images/logo.png" alt="logo">
+
         <div id="profile">
         <img src="../images/channels4_profile.jpg" alt="" >
         <span id="Name">Ahmad ALtamimi</span>
@@ -37,56 +34,25 @@
       </div>
     </div>
   </div>
-  <div id="box-of-quastion">
-    <p id="numofquestion">
-1/5
-    </p>
-    <div id="question">
-      If a bus travels from point A to point B at 40 mph, and returns from point B to point A at 60 mph, what is the average speed for the entire journey?
+
+  <div class="box">
+    <h2>You will start your English quiz</h2>
+    <div class="rules">
+      <h5>Some Rules Of The Quiz</h5>
+      <p>1.once you selected your answer, you cant get back to the previous question.</p>
+      <p>2.you can't exit from the quiz while you are playing.</p>
+      <p> 3.you will get points bases on your correct answers</p>
     </div>
-    <div id="answers">
-      <!-- box1  -->
-      <div class="answer1 answer">
-         <input type="radio" name="answer" id="radio1">
-        <label class="contentofanswer" for="radio1">
-          40 mph
 
-        </label >
-      </div>
-      <!-- box2 -->
-
-        <div class="answer2 answer">
-         
-           <input type="radio" name="answer" id="radio2">
-          <label class="contentofanswer">
-            50 mph
-          </label>
-      </div>
-      <!-- box3  -->
-   
-      <div class="answer3 answer">
-         <input type="radio" name="answer" id="radio3">
-        <label class="contentofanswer">
-          48 mph
-
-        </label>
-    </div>
-          <!-- box4  -->
-   
-          <div class="answer4 answer">
-             <input type="radio" name="answer" id="radio4">
-            <label class="contentofanswer" for="radio">
-              
-              55 mph
-            </label>
-        </div>
+    <div class="buttons">
+      <button id="exit">Exit</button>
+      <button id="start">Start</button>
     </div>
   </div>
-        <div id="next-continer">
-          <button id="next">Next Question</button>
-        </div>
-  </div>
-      <script src="../js/ahmad.js"></script>
+
+
+  
+      <script src="../JS/quiz_start.js"></script>
 
   </body>
 </html>
