@@ -1,0 +1,15 @@
+:root {
+  --text: #0a0600;
+  --background: #fffbf5;
+  --primary: #3d8cfa;
+  --secondary: #a8a1fd;
+  --accent: #05bbcc;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+    font-family: 'Outfit', sans-serif;
+}

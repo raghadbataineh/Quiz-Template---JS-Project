@@ -1,0 +1,108 @@
+body {
+    background-color: #fffbf5;
+    /* font-size: 15px; */
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+.navbar {
+    display: flex; 
+    align-items: center; 
+   
+  }
+
+.navbar #signup {
+    background-color:#3D8CFA;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    border-style: none;
+}
+
+.navbar #login {
+    background-color: #A8A1FD;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    border-style: none;
+}
+
+.container  {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 30px;
+}
+.header h1 {
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+.header h3 {
+    font-size: 40px;
+    margin-bottom: 40px;
+  
+}
+.box1 {
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 3px solid #3D8CFA ;
+    border-radius: 15px;
+    box-shadow: #3D8CFA 0px 5px 5px 5px;
+   
+
+}
+
+.box2 {
+    width: 700px;
+    height: 200px;
+    /* display: flex;
+    flex-direction: row; */
+    border: 3px solid #3D8CFA ;
+    border-radius: 15px;
+    box-shadow: #3D8CFA 0px 5px 5px 5px;
+
+}
+.box2 .content {
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+.box2 h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.box1 img {
+    width: 200px;
+    border-radius: 180px;
+
+}
+.box2 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 180px;
+    padding-left: 5px;
+
+}
+span {
+    color: #05bbcc;
+}
+
+#btn {
+    background-color:  #A8A1FD  ;
+    width: 150px;  
+    background-color: #A8A1FD;
+     height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    margin: 50px;
+    border-style: none;
+}
+
