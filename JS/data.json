@@ -1,0 +1,818 @@
+
+
+[
+    {
+      "id": 11,
+      "question": "If a bus travels from point A to point B at 40 mph, and returns from point B to point A at 60 mph, what is the average speed for the entire journey?",
+      "description": null,
+      "answers": {
+        "answer_a": "40 mph",
+        "answer_b": "50 mph",
+        "answer_c": "48 mph",
+        "answer_d": "55 mph",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    
+    ,
+    {
+      "id":22,
+      "question": "If 2 hours ago, it was as long after one o'clock in the afternoon as it was before one o'clock in the morning, what time is it now?",
+      "description": null,
+      "answers": {
+        "answer_a": "2:00 PM",
+        "answer_b": "3:00 PM",
+        "answer_c": "4:00 PM",
+        "answer_d": "5:00 PM",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    
+    ,
+    {
+      "id": 33,
+      "question": "Which number comes next in the series: 1, 4, 9, 16, ___?",
+      "description": null,
+      "answers": {
+        "answer_a": "20",
+        "answer_b": "24",
+        "answer_c": "25",
+        "answer_d": "30",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    
+    ,
+    {
+      "id": 44,
+      "question": "If RED is coded as 27, and BLUE is coded as 42, what is the code for GREEN?",
+      "description": null,
+      "answers": {
+        "answer_a": "33",
+        "answer_b": "45",
+        "answer_c": "54",
+        "answer_d": "63",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    
+    ,
+    {
+      "id": 55,
+      "question": "If you rearrange the letters 'CIFAIPC', you would get the name of a(n):",
+      "description": null,
+      "answers": {
+        "answer_a": "Country",
+        "answer_b": "Animal",
+        "answer_c": "City",
+        "answer_d": "Ocean",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    
+,
+    {
+      "id": 1,
+      "question": "Choose the correct sentence:",
+      "description": null,
+      "answers": {
+        "answer_a": "She don't likes ice cream.",
+        "answer_b": "They doesn't like ice cream.",
+        "answer_c": "He don't like ice cream.",
+        "answer_d": "She doesn't like ice cream.",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "true",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    ,
+    {
+      "id": 2,
+      "question": "What is the meaning of the word 'eloquent'?",
+      "description": null,
+      "answers": {
+        "answer_a": "Lacking fluency or persuasion.",
+        "answer_b": "Speaking clearly and effectively.",
+        "answer_c": "Unintelligible and incoherent.",
+        "answer_d": "Shy and reserved.",
+        "answer_e": null,
+        "answer_f": null
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false",
+        "answer_f_correct": "false"
+      }
+    }
+    
+  ,
+
+
+  {
+    "id": 3,
+    "question": "Choose the correct word to complete the sentence:\n\nShe _____ a good book yesterday.",
+    "description": null,
+    "answers": {
+      "answer_a": "reads",
+      "answer_b": "read",
+      "answer_c": "reading",
+      "answer_d": "have read",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    }
+  }
+,
+
+{
+  "id": 4,
+  "question": "What figure of speech is used in the phrase 'time flies'?",
+  "description": null,
+  "answers": {
+    "answer_a": "Metaphor",
+    "answer_b": "Simile",
+    "answer_c": "Hyperbole",
+    "answer_d": "Personification",
+    "answer_e": null,
+    "answer_f": null
+  },
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  }
+}
+,
+{
+  "id": 5,
+  "question": "Identify the correct sentence:",
+  "description": null,
+  "answers": {
+    "answer_a": "He didn't went to the party.",
+    "answer_b": "She haven't seen the movie.",
+    "answer_c": "They hasn't finished their homework.",
+    "answer_d": "We didn't have breakfast.",
+    "answer_e": null,
+    "answer_f": null
+  },
+  "multiple_correct_answers": "false",
+  "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "true",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+  
+  {
+    "id": 222,
+    "question": "The wildcard in a WHERE clause is useful when?",
+    "description": null,
+    "answers": {
+      "answer_a": "An exact match is necessary in a SELECT statement.",
+      "answer_b": "An exact match is not possible in a SELECT statement.",
+      "answer_c": "An exact match is necessary in a CREATE statement.",
+      "answer_d": "An exact match is not possible in a CREATE statement.",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 1071,
+    "question": "From which file does the command `free` takes it's information",
+    "description": null,
+    "answers": {
+      "answer_a": "/proc/meminfo",
+      "answer_b": "/proc/freemem",
+      "answer_c": "/proc/memfree",
+      "answer_d": "/dev/meminfo",
+      "answer_e": "/dev/freemem",
+      "answer_f": "/dev/memfree"
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Linux" }],
+    "category": "Linux",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 1032,
+    "question": "How to list all of your services in Docker swarm?",
+    "description": null,
+    "answers": {
+      "answer_a": "docker ls service",
+      "answer_b": "docker service ls",
+      "answer_c": "docker service ps",
+      "answer_d": "docker get service",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Docker" }],
+    "category": "Docker",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 744,
+    "question": "How to mark a node called my-node as schedulable in Kubernetes?",
+    "description": null,
+    "answers": {
+      "answer_a": "kubectl schedulable my-node",
+      "answer_b": "kubectl up my-node",
+      "answer_c": "kubectl available my-node",
+      "answer_d": "kubectl uncordon my-node",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Kubernetes" }],
+    "category": "Linux",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "question": "How to check the current disk usage on Linux?",
+    "description": "check current disk usage",
+    "answers": {
+      "answer_a": "df",
+      "answer_b": "usage",
+      "answer_c": "uptime",
+      "answer_d": "free",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": "df shows you the current disk usage",
+    "tip": "df",
+    "tags": [{ "name": "Linux" }, { "name": "BASH" }, { "name": "PHP" }],
+    "category": "uncategorized",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 916,
+    "question": "What are the responsibilities of Replication Controller?",
+    "description": null,
+    "answers": {
+      "answer_a": "Update or delete multiple pods with a single command",
+      "answer_b": "Helps to achieve the desired state",
+      "answer_c": "Creates a new pod, if the existing pod crashes",
+      "answer_d": "All of the mentioned",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Kubernetes" }],
+    "category": "DevOps",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 511,
+    "question": "Which tag is used to display the large font size?",
+    "description": null,
+    "answers": {
+      "answer_a": "<LARGE></LARGE>",
+      "answer_b": "<FONT></FONT>",
+      "answer_c": "< SIZE ></SIZE>",
+      "answer_d": "<BIG></BIG>",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "HTML" }],
+    "category": "Code",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 570,
+    "question": "What does PHP Stands for?",
+    "description": null,
+    "answers": {
+      "answer_a": "PHP Hypertex Processor",
+      "answer_b": "PHP Hypertext Preprocessor",
+      "answer_c": "PHP Hyper Markup Preprocessor",
+      "answer_d": "PHP Hyper Markup Processor",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "true",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "true",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 153,
+    "question": "The HTML global attribute, \"contenteditable\" is used to:",
+    "description": null,
+    "answers": {
+      "answer_a": "Specify whether the content of an element should be editable or not",
+      "answer_b": "Update content from the server",
+      "answer_c": "Specifies a context menu for an element. The menu appears when a user right-clicks on the element",
+      "answer_d": "Return the position of the first found occurrence of content inside a string",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "HTML" }],
+    "category": "",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 1005,
+    "question": "Which of the following are Kubernetes installation tools? Select all answers that apply.",
+    "description": null,
+    "answers": {
+      "answer_a": "kops",
+      "answer_b": "kubeadm",
+      "answer_c": "kubespray (formerly known as kargo)",
+      "answer_d": "None of the mentioned",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "true",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "true",
+      "answer_c_correct": "true",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Kubernetes" }],
+    "category": "DevOps",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 337,
+    "question": "Which of the following is not a MySQL statement?",
+    "description": null,
+    "answers": {
+      "answer_a": "ENUMERATE",
+      "answer_b": "EXPLAIN",
+      "answer_c": "KILL",
+      "answer_d": "LOAD DATA",
+      "answer_e": "SET",
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 1064,
+    "question": "Which artisan command would you use to create a new Laravel Model?",
+    "description": null,
+    "answers": {
+      "answer_a": "php artisan create:model ModelName",
+      "answer_b": "php artisan model:make ModelName",
+      "answer_c": "php artisan model create ModelName",
+      "answer_d": "php artisan make:model ModelName",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Laravel" }],
+    "category": "Code",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 175,
+    "question": "What is Docker Swarm?",
+    "description": null,
+    "answers": {
+      "answer_a": "Container orchestration tool",
+      "answer_b": "Container registry",
+      "answer_c": "Text document that contains all the commands",
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Docker" }],
+    "category": "Docker",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 361,
+    "question": "What will be the output of the following query INSERT INTO students (student name) VALUE ('James Lenon');",
+    "description": null,
+    "answers": {
+      "answer_a": "a student record with the name James Lenon will be added into the students table",
+      "answer_b": "the above query will generate an error message.",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "true",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 313,
+    "question": "How can you get involved with WordPress?",
+    "description": null,
+    "answers": {
+      "answer_a": "Attend Word Camp",
+      "answer_b": "Edit the Codex (documentation)",
+      "answer_c": "Help in the Forums",
+      "answer_d": "All of these",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "WordPress" }],
+    "category": "CMS",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 374,
+    "question": "What will be the effect of inserting 500 rows in a table with the following definition. CREATE TABLE `categories` ( `category_id` tinyint(3) AUTO_INCREMENT, `category_name` varchar(150) DEFAULT NULL, `remarks` varchar(500) DEFAULT NULL, PRIMARY KEY",
+    "description": null,
+    "answers": {
+      "answer_a": "500 rows will be inserted into the table",
+      "answer_b": "only 100 rows will be inserted",
+      "answer_c": "a table with the above definition is not possible",
+      "answer_d": "half the records will be inserted then an error will be generated",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 1076,
+    "question": "If you execute the command `umask 0002`, what will happen",
+    "description": null,
+    "answers": {
+      "answer_a": "Next time when we create a file using the chmod command, the permissions of will be 664",
+      "answer_b": "Next time when we create a file using the chmod command, the permissions of will be 666",
+      "answer_c": "Next time when we create a file using the chmod command, the permissions of will be 002",
+      "answer_d": "None of the mentioned",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Linux" }],
+    "category": "Linux",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 824,
+    "question": "test123",
+    "description": null,
+    "answers": {
+      "answer_a": "test",
+      "answer_b": "test2",
+      "answer_c": null,
+      "answer_d": null,
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "Angular" }],
+    "category": "Linux",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 379,
+    "question": "What will be the output of the query SELECT * FROM `members` LIMIT 1, 2;",
+    "description": null,
+    "answers": {
+      "answer_a": "the query will generate an error",
+      "answer_b": "the query will return all records from the members table",
+      "answer_c": "the query will return the first 2 records",
+      "answer_d": "the query will return skip the first record then return the following 2 records only",
+      "answer_e": null,
+      "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [{ "name": "MySQL" }],
+    "category": "SQL",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 773,
+    "question": "Which of the following provides the error code associated with this file upload?",
+    "description": null,
+    "answers": {
+      "answer_a": "$_FILES['file']['error']",
+      "answer_b": "$_FILES['file']['errors']",
+      "answer_c": "$_FILES['error']",
+      "answer_d": "$_FILES['errors']",
+      "answer_e": "$_FILES->file->error",
+      "answer_f": "$_FILES->file->errors"
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+      "answer_a_correct": "true",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "false",
+      "answer_e_correct": "false",
+      "answer_f_correct": "false"
+    },
+    "correct_answer": null,
+    "explanation": "$_FILES['file']['error'] \u2212 it provides the error code associated with this file upload.",
+    "tip": null,
+    "tags": [{ "name": "PHP" }],
+    "category": "Code",
+    "difficulty": "Medium"
+  }
+]

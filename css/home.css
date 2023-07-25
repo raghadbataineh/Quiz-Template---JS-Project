@@ -35,9 +35,31 @@ justify-content: center;
 align-items: center;
 gap: 30px;
 }
+
+/* Define the animation */
+@keyframes typing {
+    from {
+      width: 0; /* Set the initial width to 0 */
+    }
+    to {
+      width: 100%; /* Set the final width to 100% */
+    }
+  }
+  
+  /* Apply the animation to the span element */
+  span.typing {
+    display: inline-block;
+    height: 70px;
+    overflow: hidden;
+    animation: typing 3s steps(10) infinite; */
+  }
+
+  
+  
 .header h1 {
     font-size: 70px;
     margin-bottom: 20px;
+    display: inline-block;
 }
 
 .header h3 {
@@ -46,7 +68,8 @@ gap: 30px;
   
 }
 .box1 {
-    width: 700px;
+    width: 900px;
+    height: 200px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -57,9 +80,10 @@ gap: 30px;
 
 }
 
+
 .box2 {
-    width: 700px;
-    height: 200px;
+    width: 900px;
+    height: 220px;
     /* display: flex;
     flex-direction: row; */
     border: 3px solid #3D8CFA ;
@@ -67,6 +91,7 @@ gap: 30px;
     box-shadow: #3D8CFA 0px 5px 5px 5px;
 
 }
+
 .box2 .content {
     display: flex;
     flex-direction: row;
@@ -74,20 +99,35 @@ gap: 30px;
 }
 .box2 h5 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 30px;
+
 }
 
 
 .box1 img {
-    width: 200px;
+    width: 180px;
+    padding-left: 30px;
     border-radius: 180px;
 
 }
+.box1 p {
+    padding-left: 50px;
+    width: 600px;
+    text-align: justify;
+}
+
+.box2 p {
+    padding-left: 70px;
+    margin-top: 10px;
+    width: 600px;
+    text-align: justify;
+}
 .box2 img {
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     border-radius: 180px;
-    padding-left: 5px;
+margin-top: -10px;
+    margin-left: 40px;
 
 }
 span {
@@ -96,13 +136,20 @@ span {
 
 #btn {
     background-color:  #A8A1FD  ;
-    width: 150px;  
+    width: 300px;  
     background-color: #A8A1FD;
-     height: 40px;
-    border-radius: 5px;
+     height: 60px;
+    border-radius: 10px;
     color: white;
     font-weight: bolder;
     margin: 50px;
     border-style: none;
+    font-size: 25PX;
+}
+#btn:hover {
+    scale: 1.05;
+    background-color: #3D8CFA;
+    box-shadow: 5px 5px 10px 5px rgba(94, 92, 154, 0.35);
+
 }
 
