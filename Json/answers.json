@@ -1,0 +1,308 @@
+[
+    {
+      "id": 1,
+      "question": "If a bus travels from point A to point B at 40 mph, and returns from point B to point A at 60 mph, what is the average speed for the entire journey?",
+      "description": null,
+      "answers": {
+        "answer_a": "40 mph",
+        "answer_b": "50 mph",
+        "answer_c": "48 mph",
+        "answer_d": "55 mph"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "48 mph"
+    },
+  
+    {
+      "id": 2,
+      "question": "If 2 hours ago, it was as long after one o'clock in the afternoon as it was before one o'clock in the morning, what time is it now?",
+      "description": null,
+      "answers": {
+        "answer_a": "2:00 PM",
+        "answer_b": "3:00 PM",
+        "answer_c": "4:00 PM",
+        "answer_d": "5:00 PM"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "3:00 PM"
+    },
+  
+    {
+      "id": 3,
+      "question": "Which number comes next in the series: 1, 4, 9, 16, ___?",
+      "description": null,
+      "answers": {
+        "answer_a": "20",
+        "answer_b": "24",
+        "answer_c": "25",
+        "answer_d": "30"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "25"
+    },
+  
+    {
+      "id": 4,
+      "question": "If RED is coded as 27, and BLUE is coded as 42, what is the code for GREEN?",
+      "description": null,
+      "answers": {
+        "answer_a": "33",
+        "answer_b": "45",
+        "answer_c": "54",
+        "answer_d": "63"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "33"
+    },
+  
+    {
+      "id": 5,
+      "question": "If you rearrange the letters 'CIFAIPC', you would get the name of a(n):",
+      "description": null,
+      "answers": {
+        "answer_a": "Country",
+        "answer_b": "Animal",
+        "answer_c": "City",
+        "answer_d": "Ocean"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Animal"
+    },
+  
+    {
+      "id": 6,
+      "question": "Choose the correct sentence:",
+      "description": null,
+      "answers": {
+        "answer_a": "She don't likes ice cream.",
+        "answer_b": "They doesn't like ice cream.",
+        "answer_c": "He don't like ice cream.",
+        "answer_d": "She doesn't like ice cream."
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "She doesn't like ice cream."
+    },
+    {
+      "id": 7,
+      "question": "What is the meaning of the word 'eloquent'?",
+      "description": null,
+      "answers": {
+        "answer_a": "Lacking fluency or persuasion.",
+        "answer_b": "Speaking clearly and effectively.",
+        "answer_c": "Unintelligible and incoherent.",
+        "answer_d": "Shy and reserved."
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Speaking clearly and effectively."
+    },
+  
+    {
+      "id": 8,
+      "question": "Choose the correct word to complete the sentence:\n\nShe _____ a good book yesterday.",
+      "description": null,
+      "answers": {
+        "answer_a": "reads",
+        "answer_b": "read",
+        "answer_c": "reading",
+        "answer_d": "have read"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "read"
+    },
+    {
+      "id": 9,
+      "question": "What figure of speech is used in the phrase 'time flies'?",
+      "description": null,
+      "answers": {
+        "answer_a": "Metaphor",
+        "answer_b": "Simile",
+        "answer_c": "Hyperbole",
+        "answer_d": "Personification"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Metaphor"
+    },
+    {
+      "id": 10,
+      "question": "Identify the correct sentence:",
+      "description": null,
+      "answers": {
+        "answer_a": "He didn't went to the party.",
+        "answer_b": "She haven't seen the movie.",
+        "answer_c": "They hasn't finished their homework.",
+        "answer_d": "We didn't have breakfast."
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "We didn't have breakfast."
+    },
+    {
+      "id": 11,
+      "question": "Javascript is an _______ language?",
+      "description": null,
+      "answers": {
+        "answer_a": "Object-Oriented",
+        "answer_b": "Object-Based",
+        "answer_c": "Procedural",
+        "answer_d": "None"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Object-Oriented"
+    },
+    {
+      "id": 12,
+      "question": "What does HTML stand for?",
+      "description": null,
+      "answers": {
+        "answer_a": "Hyper Text Markup Language",
+        "answer_b": "Hot Mail",
+        "answer_c": "How to Make Lasagna",
+        "answer_d": "HyperLink Markup Language"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Hyper Text Markup Language"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an example of an empty element?",
+      "description": null,
+      "answers": {
+        "answer_a": "Parethesis",
+        "answer_b": "Quotation marks",
+        "answer_c": "Commas",
+        "answer_d": "question mark"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Quotation marks"
+    },
+    {
+      "id": 14,
+      "question": "How do you add a background color for all h1 elements?",
+      "description": null,
+      "answers": {
+        "answer_a": "All.h1 {background-color:#FFFFFF}",
+        "answer_b": "H1.all {background-color:#FFFFFF}",
+        "answer_c": "H1 {background-color:#FFFFFF}",
+        "answer_d": "H1 (background-color:#FFFFFF)"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "H1 {background-color:#FFFFFF}"
+    },
+    {
+      "id": 15,
+      "question": "How do you change the text color of an element?",
+      "description": null,
+      "answers": {
+        "answer_a": "Color:",
+        "answer_b": "Fgcolor:",
+        "answer_c": "Text-color=",
+        "answer_d": "Text-color:"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Text-color:"
+    },
+    {
+      "id": 16,
+      "question": "How do you display a border like this: The top border = 10 pixels, , The bottom border = 5 pixels, The right border = 20 pixels, The left border = 1pixel?",
+      "description": null,
+      "answers": {
+        "answer_a": "Border-width:20px 10px 5px 1px",
+        "answer_b": "Border-width:10px 20px 5px 1px",
+        "answer_c": "Border-width:5px 20px 10px 1px",
+        "answer_d": "Border-width:10px 20px 1px 5px"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Border-width:10px 20px 5px 1px"
+    },
+    {
+      "id": 17,
+      "question": "How can we declare variable in javascript?",
+      "description": null,
+      "answers": {
+        "answer_a": "Datatype",
+        "answer_b": "Var",
+        "answer_c": "Int",
+        "answer_d": "Float"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Var"
+    },
+    {
+      "id": 18,
+      "question": "If we want to print any message in message box we use _____ in javascript?",
+      "description": null,
+      "answers": {
+        "answer_a": "Confirm box",
+        "answer_b": "Alert box",
+        "answer_c": "None of above",
+        "answer_d": "Prompt box"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Alert box"
+    },
+    {
+      "id": 19,
+      "question": "push () is which type of function?",
+      "description": null,
+      "answers": {
+        "answer_a": "String",
+        "answer_b": "Maths / numeric",
+        "answer_c": "Array",
+        "answer_d": "Date and time"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Array"
+    },
+    {
+      "id": 20,
+      "question": "< br / > What type of tag is this?",
+      "description": null,
+      "answers": {
+        "answer_a": "Break tag",
+        "answer_b": "An opening tag",
+        "answer_c": "A broken one",
+        "answer_d": "closing tag"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Break tag"
+    },
+    {
+      "id": 21,
+      "question": "If we want to print any message in message box we use _____ in javascript?",
+      "description": null,
+      "answers": {
+        "answer_a": "Confirm box",
+        "answer_b": "Alert box",
+        "answer_c": "None of above",
+        "answer_d": "Prompt box"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Alert box"
+    },
+    {
+      "id": 22,
+      "question": "push () is which type of function?",
+      "description": null,
+      "answers": {
+        "answer_a": "String",
+        "answer_b": "Maths / numeric",
+        "answer_c": "Array",
+        "answer_d": "Date and time"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Array"
+    },
+    {
+      "id": 23,
+      "question": "< br / > What type of tag is this?",
+      "description": null,
+      "answers": {
+        "answer_a": "Break tag",
+        "answer_b": "An opening tag",
+        "answer_c": "A broken one",
+        "answer_d": "closing tag"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": "Break tag"
+    }
+  ]
+  

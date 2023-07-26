@@ -3,11 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <!-- Font Auwsome link -->
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <!-- Font Auwsome link -->
 
-        <!-- css Links  -->
+    <!-- css Links  -->
     <!-- <link rel="stylesheet" href="../css/normalize.css" /> -->
     <link rel="stylesheet" href="../css/styles.css" />
     <link rel="stylesheet" href="../css/quiz_start.css" />
@@ -17,42 +22,173 @@
       href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;700;900&display=swap"
       rel="stylesheet"
     />
-    <title>Quiz </title>
+    <title>Quiz</title>
   </head>
   <body>
+    <div id="body">
+      <div class=""></div>
 
+      <div id="fixed">
+        <div id="header">
+          <div id="nav">
+            <img src="../images/logo.png" alt="logo" />
+            <div id="category_div">
+              <h2 id="category">English Quiz</h2>
+            </div>
+            <div id="profile">
+              <img src="../images/channels4_profile.jpg" alt="" />
+              <span id="Name">Ahmad ALtamimi</span>
+              <svg
+                viewBox="0 0 1024 1024"
+                class="icon arrow"
+                version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="#000000"
+              >
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g
+                  id="SVGRepo_tracerCarrier"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                ></g>
+                <g id="SVGRepo_iconCarrier">
+                  <path
+                    d="M903.232 256l56.768 50.432L512 768 64 306.432 120.768 256 512 659.072z"
+                    fill="#000000"
+                  ></path>
+                </g>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <p id="english_page">
+          You have completed the IQ Quiz and must now take the English Quiz
+          Quiz.
+        </p>
+        <div class="button1">
+          <button id="opic">Start English Quiz</button>
+        </div>
+      </div>
+      <!-- ______________________________ -->
+      <div id="fixed2">
+        <div id="header">
+          <div id="nav">
+            <img src="../images/logo.png" alt="logo" />
+            <div id="category_div">
+              <h2 id="category">Technical Quiz</h2>
+            </div>
+            <div id="profile">
+              <img src="../images/channels4_profile.jpg" alt="" />
+              <span id="Name">Ahmad ALtamimi</span>
+              <svg
+                viewBox="0 0 1024 1024"
+                class="icon arrow"
+                version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                fill="#000000"
+              >
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g
+                  id="SVGRepo_tracerCarrier"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                ></g>
+                <g id="SVGRepo_iconCarrier">
+                  <path
+                    d="M903.232 256l56.768 50.432L512 768 64 306.432 120.768 256 512 659.072z"
+                    fill="#000000"
+                  ></path>
+                </g>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <p id="english_page">
+          You have completed the English Quiz and must now take the Technical
+          Quiz.
+        </p>
+        <div class="button2">
+          <button id="opic2">Start Technical Quiz</button>
+        </div>
+      </div>
 
-    <div id="header">
-      
+      <!-- ______________________________ -->
+      <div id="header">
         <div id="nav">
-        <img src="../images/logo.png" alt="logo">
+          <img src="../images/logo.png" alt="logo" />
+          <div id="category_div">
+            <h2 id="category">iQ Quiz</h2>
+          </div>
+          <div id="profile">
+            <img src="../images/channels4_profile.jpg" alt="" />
+            <span id="Name">Ahmad ALtamimi</span>
+            <svg
+              viewBox="0 0 1024 1024"
+              class="icon arrow"
+              version="1.1"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="#000000"
+            >
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g
+                id="SVGRepo_tracerCarrier"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></g>
+              <g id="SVGRepo_iconCarrier">
+                <path
+                  d="M903.232 256l56.768 50.432L512 768 64 306.432 120.768 256 512 659.072z"
+                  fill="#000000"
+                ></path>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div id="box-of-quastion">
+        <div id="timer">
+          Time Left: <span id="countdown"></span>
+        </div>
+        <p id="numofquestion">1/5</p>
+        <div id="question">
+          If a bus travels from point A to point B at 40 mph, and returns from
+          point B to point A at 60 mph, what is the average speed for the entire
+          journey?
+        </div>
+        <div id="answers">
+          <!-- box1  -->
+          <div class="answer1 answer">
+            <input type="radio" name="answer" id="radio1" />
+            <label class="contentofanswer" for="radio1">40 mph</label>
+          </div>
+          <!-- box2 -->
 
-        <div id="profile">
-        <img src="../images/channels4_profile.jpg" alt="" >
-        <span id="Name">Ahmad ALtamimi</span>
-        <svg viewBox="0 0 1024 1024" class="icon arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000" ><g id="SVGRepo_bgCarrier" stroke-width="0" ></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M903.232 256l56.768 50.432L512 768 64 306.432 120.768 256 512 659.072z" fill="#000000"></path></g></svg>
+          <div class="answer2 answer">
+            <input type="radio" name="answer" id="radio2" />
+            <label class="contentofanswer"> 50 mph </label>
+          </div>
+          <!-- box3  -->
+
+          <div class="answer3 answer">
+            <input type="radio" name="answer" id="radio3" />
+            <label class="contentofanswer"> 48 mph </label>
+          </div>
+          <!-- box4  -->
+
+          <div class="answer4 answer">
+            <input type="radio" name="answer" id="radio4" />
+            <label class="contentofanswer" for="radio"> 55 mph </label>
+          </div>
+        </div>
+      </div>
+      <div id="next-continer">
+        <button id="next">Next Question</button>
       </div>
     </div>
-  </div>
-
-  <div class="box">
-    <h2>You will start your English quiz</h2>
-    <div class="rules">
-      <h5>Some Rules Of The Quiz</h5>
-      <p>1.once you selected your answer, you cant get back to the previous question.</p>
-      <p>2.you can't exit from the quiz while you are playing.</p>
-      <p> 3.you will get points bases on your correct answers</p>
-    </div>
-
-    <div class="buttons">
-      <button id="exit">Exit</button>
-      <button id="start">Start</button>
-    </div>
-  </div>
-
-
-  
-      <script src="../JS/quiz_start.js"></script>
-
+    <script src="../js/quiz_start.js"></script>
   </body>
+  <div id="pop">
+    <img id="exit" src="../images/exit1.png" alt="" />
+    you Must Select Answer
+  </div>
 </html>

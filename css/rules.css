@@ -1,0 +1,134 @@
+:root {
+    --text: #0a0600;
+    --background: #fffbf5;
+    --primary: #3d8cfa;
+    --secondary: #a8a1fd;
+    --accent: #05bbcc;
+  }
+  {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;
+  box-sizing: border-box;
+  }
+  body {
+    background-image: url(../images/login-registration-background.png);
+    background-size: cover;
+    font-family: "Outfit", sans-serif;
+  }
+  body {
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  #header {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+  #header #nav {
+    border-radius: 10px;
+    width: 96%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+  }
+  #header img:first-of-type {
+    width: 250px;
+  }
+  #header #category {
+    display: flex;
+    align-self: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: var(--primary);
+  }
+  #header #profile {
+    display: flex;
+    align-items: center;
+  }
+  #header #profile img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  .arrow {
+    width: 20px;
+    margin-left: 10px;
+  }
+  
+  .box {
+    background-color: white;
+    width: 60%;
+    margin: 50px auto;
+    height: 510px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    box-shadow: gray 0px 5px 5px 5px;
+  }
+  
+  .box h2 {
+    margin-top: 30px;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .box p {
+    font-size: 20px;
+  }
+  .rules {
+    padding: 50px;
+  }
+  .rules h5 {
+    font-weight: bold; 
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .buttons {
+    display: flex;
+    flex-direction: row; 
+    gap: 40px;
+    justify-content: center;
+    margin: 4px auto;
+    font-size: 23px;
+   
+  
+  } 
+  
+  
+  
+  #exit {
+    background-color: #3d8cfa;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    border-style: none;
+    font-weight: bolder;
+  }
+  #start {
+    background-color: #a8a1fd;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    border-style: none;
+    font-weight: bold;
+  }
+  
+  #exit:hover, #start:hover {
+    scale: 1.05;
+    box-shadow: 5px 5px 10px 5px rgba(94, 92, 154, 0.35);
+  }
+  
+  @media screen and (min-width:481px) and (max-width:768px){
+    .box {
+        width: 100%;
+       
+    }
+  }
+
+  @media screen and (max-width:480px) {
+    .box {
+        height: 100%;
+        width: 100%;
+    }
+  }

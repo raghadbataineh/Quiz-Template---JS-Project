@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/registration.css" />
+    <link rel="stylesheet" href="../css/normalize.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Register new account</title>
+  </head>
+  <body>
+    <main class="overflow-hidden">
+      <div class="container">
+        <div class="logo">
+          <img src="../images/logo.png" alt="" />
+        </div>
+        <div class="row">
+          <!-- left section -->
+          <div class="left-section">
+            <p>
+              A development company is a professional organization specializing
+              in the creation and implementation of software and technology
+              solutions for businesses and individuals.
+            </p>
+            <h1>TECHNO COMPANY</h1>
+            <div class="logSign">
+              <button id="showlogin" type="button" class="active">Login</button>
+              <button id="showregister" type="button" class="">register</button>
+            </div>
+          </div>
+          <!-- right section -->
+          <div class="right-section">
+            <!-- login form -->
+            <form id="loginForm" style="display: block">
+              <h2 class="login-form form-title">Account Login</h2>
+              <div class="input-field">
+                <input
+                  id="emailOrUsername"
+                  type="text"
+                  id="username"
+                  class="inp"
+                  required
+                />
+                <label for="username" class="lbl"> Username or Email </label>
+              </div>
+              <div class="input-field delay-100ms">
+                <input
+                  id="pas"
+                  type="password"
+                  id="password"
+                  class="inp"
+                  required
+                />
+                <label for="text" class="lbl"> Password </label>
+              </div>
+              <div class="rememberme">
+                <div>
+                  <input type="checkbox" />
+                  <label>Remember Me</label>
+                </div>
+                <div>
+                  <a href="#" class="forget">forget password</a>
+                </div>
+              </div>
+              <div class="login-btn">
+                <button id="logBTN" type="button" class="btn" style="width: 250px;">
+                  Login to your Account!
+                </button>
+              </div>
+              <div class="login-form signup_social">
+                <div class="divide-heading">
+                  <span>Or login with your Social Account</span>
+                </div>
+                <div class="social-signup" style="margin-bottom: 50px;">
+                  <a class="facebook" href="#"
+                    ><i class="fa-brands fa-square-facebook"></i
+                  ></a>
+                  <a class="google" href="#"
+                    ><i class="fa-brands fa-google"></i
+                  ></a>
+                </div>
+              </div>
+            </form>
+            <!-- sign up -->
+            <form id="registerForm" style="display: none">
+              <h2 class="signup-form form-title">Create your Account!</h2>
+              <div class="input-field">
+                <input type="text" id="email" class="inp" required />
+                <label for="email" class="lbl">Email address</label>
+                <span id="email-message"></span>
+              </div>
+              <div class="input-field">
+                <input type="text" id="username" class="inp" required />
+                <label for="text" class="lbl">Username</label>
+                <span id="username-message"></span>
+              </div>
+              <div class="input-field">
+                <input type="password" id="password" class="inp" required />
+                <label for="text" class="lbl">Password</label>
+                <span id="pass-message"></span>
+              </div>
+              <div class="input-field">
+                <input
+                  type="password"
+                  id="repeat-password"
+                  class="inp"
+                  required
+                />
+                <label for="password" class="lbl">Repeat Password</label>
+                <span id="c-pass-message"></span>
+              </div>
+              <div class="have-acc">
+                <a href="#" class="acc">already have an account ?</a>
+              </div>
+              <div class="login-btn">
+                <button id="regBTN" class="btn">Register Now</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="../js/registration.js"></script>
+  </body>
+</html>
